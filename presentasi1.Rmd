@@ -1,27 +1,42 @@
 ---
-title: "Presentasi1"
-author: "M Taufik Ridho"
+title: "Time-varying Risk Aversion dan Preferensi Investasi Pada Bulan Ramadhan di Indonesia menggunakan CCAPM"
+author: "M Taufik Ridho / 417601"
 date: "23/8/2019"
 output:
   beamer_presentation:
-    theme: "AnnArbor"
-    colortheme: "dolphin"
+    colortheme: "default"
     fonttheme: "structurebold"
+    theme: "AnnArbor"
 ---
 
 
 
-# In the morning
+# Pendahuluan
 
-## Getting up
+## kmkmk
 
-- Turn off alarm
-- Get out of bed
+- Studi tentang Macro-finance mempelajari hubungan antara harga aset asset price dan fluktuasi ekonomi Cochrane, 2017
+- Harga dan return dari sebuah aset berkorelasi dengan siklus bisnis.
 
-## Breakfast
+## 
 
-- Eat eggs
-- Drink coffee
+- kejadian makroekonomi dapat dijelaskan menggunakan dinamika harga aset seperti saham ataupun obligasi.
+- Penelitian ini berfokus pada bulan ramadhan di Indonesia sebagai kejadian makroekonomi.
+
+## Mengapa Ramadhan ?
+
+- Salah satu kejadian makroekonomi di Indonesia yang terjadi setiap tahun adalah perubahan pola bisnis pada bulan ramadhan.
+- ketika bulan ramadhan teradapat beberapa perubahan ekonomi, misalnya seperti kenaikan harga bahan pokok, inflasi, atau perubahan perilaku di pasar modal.
+
+## Asset pricing 
+- Teori mengenai asset pricing menjelaskan bahwa harga sebuah asset terbentuk atas 2 hal yakni SDF stochastic discount factor dan ekspektasi pay off dari sebuah aset.
+- model mengenai asset pricing yang terbaik dalam menjelaskan bagaimana harga sebuah aset terbentuk adalah model asset pricing yang berbasis konsumsi
+
+## Mengapa model asset pricing berbasis konsumsi ?
+
+- faktor risiko sistematik berasal dari makroekonomi dimana terbentuk dari IMRS intertemporal marginal rate of subtitution terhadap konsumsi, yakni nilai perubahan intertemporal dari suatu barang kepada barang lainnya dengan level utilitas yang sama, sehingga hal tersebut lah yang membentuk harga saham
+- Model penilaian aset berbasis konsumsi pertama kali diperkenalkan oleh Breeden 1979
+- Pada evaluasi model CCAPM terdapat 2 parameter yang dicari, yakni Discount factor dan Risk aversion
 
 # In the evening
 
